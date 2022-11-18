@@ -11,9 +11,9 @@ import re
 import sys
 
 # creating logon credentials
-ftpUser = "root"
-ftpPass = "root"
-ftpHost = "192.168.1.1"
+ftpUser = "usuario"
+ftpPass = "contraseña"
+ftpHost = "DIRECCION IP"
 
 
 # try the connection
