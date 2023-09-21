@@ -1,3 +1,8 @@
+"""
+La madre del cordero.
+aqui es donde se invoca a una gui del tkinter y lanzara
+los que se haya compilado con el pyinstall
+"""
 import os
 import subprocess
 import tkinter as tk
