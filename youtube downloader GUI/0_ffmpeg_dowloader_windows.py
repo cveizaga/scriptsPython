@@ -1,3 +1,16 @@
+"""
+Script que realiza la descarga del software de ffmpeg
+programa necesario para poder convetir los videos mp4 a mp3
+
+Esta hardcodeado, si alguien lee esto que haga lo que le de la gana.
+ya que lo hice so lo por joder y aburrimiento. La repo donde se descarga 
+el software es BtbN/FFmpeg-Builds y de ahi solo se extrae el fichero ffprobe.exe y ffmpeg.exe
+
+Solo lo descargaría tras haber pasado 7 dias de antiguedad, por eso decia algunas mierdas 
+estan hardcodeadas
+"""
+
+
 import requests
 import os
 import zipfile
