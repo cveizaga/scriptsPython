@@ -1,3 +1,13 @@
+"""
+Descarga el youtube downloader
+ya dependiendo si existe o no.
+si existe se descarga entero, sino se ejecuta el propio programa
+y se lanza su comando de actualizacion.
+
+Creo... no me acuerdo muy bien lo que hace esta mierda, pero en principio
+es esto
+"""
+
 import requests
 import os
 from github import Github
